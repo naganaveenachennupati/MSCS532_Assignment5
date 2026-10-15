@@ -1,0 +1,201 @@
+distribution,size,algorithm,trial,elapsed_ms
+Random,100,Deterministic Quicksort,1,0.096000
+Random,100,Deterministic Quicksort,2,0.044800
+Random,100,Deterministic Quicksort,3,0.041400
+Random,100,Deterministic Quicksort,4,0.038700
+Random,100,Deterministic Quicksort,5,0.041700
+Random,100,Randomized Quicksort,1,0.075500
+Random,100,Randomized Quicksort,2,0.064300
+Random,100,Randomized Quicksort,3,0.063400
+Random,100,Randomized Quicksort,4,0.063800
+Random,100,Randomized Quicksort,5,0.065700
+Random,500,Deterministic Quicksort,1,0.360700
+Random,500,Deterministic Quicksort,2,0.299700
+Random,500,Deterministic Quicksort,3,0.318600
+Random,500,Deterministic Quicksort,4,0.351800
+Random,500,Deterministic Quicksort,5,0.310900
+Random,500,Randomized Quicksort,1,0.487100
+Random,500,Randomized Quicksort,2,0.446000
+Random,500,Randomized Quicksort,3,0.651000
+Random,500,Randomized Quicksort,4,0.417000
+Random,500,Randomized Quicksort,5,0.369400
+Random,1000,Deterministic Quicksort,1,0.672200
+Random,1000,Deterministic Quicksort,2,0.723000
+Random,1000,Deterministic Quicksort,3,0.689100
+Random,1000,Deterministic Quicksort,4,0.626100
+Random,1000,Deterministic Quicksort,5,0.641100
+Random,1000,Randomized Quicksort,1,0.880700
+Random,1000,Randomized Quicksort,2,0.894800
+Random,1000,Randomized Quicksort,3,0.825100
+Random,1000,Randomized Quicksort,4,0.786600
+Random,1000,Randomized Quicksort,5,0.845800
+Random,2000,Deterministic Quicksort,1,1.399600
+Random,2000,Deterministic Quicksort,2,1.831300
+Random,2000,Deterministic Quicksort,3,1.604100
+Random,2000,Deterministic Quicksort,4,1.530800
+Random,2000,Deterministic Quicksort,5,1.678100
+Random,2000,Randomized Quicksort,1,2.103100
+Random,2000,Randomized Quicksort,2,1.975800
+Random,2000,Randomized Quicksort,3,2.913100
+Random,2000,Randomized Quicksort,4,1.853000
+Random,2000,Randomized Quicksort,5,1.881800
+Random,5000,Deterministic Quicksort,1,4.095500
+Random,5000,Deterministic Quicksort,2,5.652200
+Random,5000,Deterministic Quicksort,3,4.175700
+Random,5000,Deterministic Quicksort,4,3.851800
+Random,5000,Deterministic Quicksort,5,4.165000
+Random,5000,Randomized Quicksort,1,4.969100
+Random,5000,Randomized Quicksort,2,6.093100
+Random,5000,Randomized Quicksort,3,4.954800
+Random,5000,Randomized Quicksort,4,5.287800
+Random,5000,Randomized Quicksort,5,5.041800
+Sorted,100,Deterministic Quicksort,1,0.266400
+Sorted,100,Deterministic Quicksort,2,0.276300
+Sorted,100,Deterministic Quicksort,3,0.276200
+Sorted,100,Deterministic Quicksort,4,0.277600
+Sorted,100,Deterministic Quicksort,5,0.284100
+Sorted,100,Randomized Quicksort,1,0.125400
+Sorted,100,Randomized Quicksort,2,0.124800
+Sorted,100,Randomized Quicksort,3,0.112000
+Sorted,100,Randomized Quicksort,4,0.122300
+Sorted,100,Randomized Quicksort,5,0.113300
+Sorted,500,Deterministic Quicksort,1,7.979900
+Sorted,500,Deterministic Quicksort,2,6.705000
+Sorted,500,Deterministic Quicksort,3,6.752400
+Sorted,500,Deterministic Quicksort,4,6.744300
+Sorted,500,Deterministic Quicksort,5,6.415900
+Sorted,500,Randomized Quicksort,1,0.351600
+Sorted,500,Randomized Quicksort,2,0.352600
+Sorted,500,Randomized Quicksort,3,0.453700
+Sorted,500,Randomized Quicksort,4,0.795100
+Sorted,500,Randomized Quicksort,5,0.372900
+Sorted,1000,Deterministic Quicksort,1,28.593800
+Sorted,1000,Deterministic Quicksort,2,29.624800
+Sorted,1000,Deterministic Quicksort,3,29.054900
+Sorted,1000,Deterministic Quicksort,4,28.347600
+Sorted,1000,Deterministic Quicksort,5,31.336200
+Sorted,1000,Randomized Quicksort,1,0.789100
+Sorted,1000,Randomized Quicksort,2,0.795200
+Sorted,1000,Randomized Quicksort,3,0.773200
+Sorted,1000,Randomized Quicksort,4,0.772100
+Sorted,1000,Randomized Quicksort,5,0.732400
+Sorted,2000,Deterministic Quicksort,1,119.014200
+Sorted,2000,Deterministic Quicksort,2,115.957300
+Sorted,2000,Deterministic Quicksort,3,123.378900
+Sorted,2000,Deterministic Quicksort,4,115.564200
+Sorted,2000,Deterministic Quicksort,5,126.042600
+Sorted,2000,Randomized Quicksort,1,1.981400
+Sorted,2000,Randomized Quicksort,2,2.428100
+Sorted,2000,Randomized Quicksort,3,3.605000
+Sorted,2000,Randomized Quicksort,4,1.756100
+Sorted,2000,Randomized Quicksort,5,1.972600
+Sorted,5000,Deterministic Quicksort,1,833.675600
+Sorted,5000,Deterministic Quicksort,2,747.470600
+Sorted,5000,Deterministic Quicksort,3,700.562900
+Sorted,5000,Deterministic Quicksort,4,666.480000
+Sorted,5000,Deterministic Quicksort,5,641.440400
+Sorted,5000,Randomized Quicksort,1,4.391900
+Sorted,5000,Randomized Quicksort,2,5.004700
+Sorted,5000,Randomized Quicksort,3,4.048700
+Sorted,5000,Randomized Quicksort,4,4.210600
+Sorted,5000,Randomized Quicksort,5,4.813900
+Reverse Sorted,100,Deterministic Quicksort,1,0.173000
+Reverse Sorted,100,Deterministic Quicksort,2,0.160500
+Reverse Sorted,100,Deterministic Quicksort,3,0.188500
+Reverse Sorted,100,Deterministic Quicksort,4,0.196500
+Reverse Sorted,100,Deterministic Quicksort,5,0.219500
+Reverse Sorted,100,Randomized Quicksort,1,0.060700
+Reverse Sorted,100,Randomized Quicksort,2,0.056900
+Reverse Sorted,100,Randomized Quicksort,3,0.049500
+Reverse Sorted,100,Randomized Quicksort,4,0.049500
+Reverse Sorted,100,Randomized Quicksort,5,0.044200
+Reverse Sorted,500,Deterministic Quicksort,1,3.789200
+Reverse Sorted,500,Deterministic Quicksort,2,3.790600
+Reverse Sorted,500,Deterministic Quicksort,3,4.647500
+Reverse Sorted,500,Deterministic Quicksort,4,3.902500
+Reverse Sorted,500,Deterministic Quicksort,5,4.659800
+Reverse Sorted,500,Randomized Quicksort,1,0.309600
+Reverse Sorted,500,Randomized Quicksort,2,0.276600
+Reverse Sorted,500,Randomized Quicksort,3,0.289900
+Reverse Sorted,500,Randomized Quicksort,4,0.298200
+Reverse Sorted,500,Randomized Quicksort,5,0.267600
+Reverse Sorted,1000,Deterministic Quicksort,1,18.404800
+Reverse Sorted,1000,Deterministic Quicksort,2,20.604500
+Reverse Sorted,1000,Deterministic Quicksort,3,18.987700
+Reverse Sorted,1000,Deterministic Quicksort,4,18.588200
+Reverse Sorted,1000,Deterministic Quicksort,5,17.936800
+Reverse Sorted,1000,Randomized Quicksort,1,0.758200
+Reverse Sorted,1000,Randomized Quicksort,2,0.637600
+Reverse Sorted,1000,Randomized Quicksort,3,0.623300
+Reverse Sorted,1000,Randomized Quicksort,4,0.669000
+Reverse Sorted,1000,Randomized Quicksort,5,0.632000
+Reverse Sorted,2000,Deterministic Quicksort,1,72.646300
+Reverse Sorted,2000,Deterministic Quicksort,2,72.011700
+Reverse Sorted,2000,Deterministic Quicksort,3,70.971100
+Reverse Sorted,2000,Deterministic Quicksort,4,73.413700
+Reverse Sorted,2000,Deterministic Quicksort,5,71.114300
+Reverse Sorted,2000,Randomized Quicksort,1,1.580700
+Reverse Sorted,2000,Randomized Quicksort,2,1.758500
+Reverse Sorted,2000,Randomized Quicksort,3,2.082500
+Reverse Sorted,2000,Randomized Quicksort,4,1.505700
+Reverse Sorted,2000,Randomized Quicksort,5,1.429600
+Reverse Sorted,5000,Deterministic Quicksort,1,453.740600
+Reverse Sorted,5000,Deterministic Quicksort,2,449.217800
+Reverse Sorted,5000,Deterministic Quicksort,3,467.632300
+Reverse Sorted,5000,Deterministic Quicksort,4,459.479700
+Reverse Sorted,5000,Deterministic Quicksort,5,494.104000
+Reverse Sorted,5000,Randomized Quicksort,1,3.646600
+Reverse Sorted,5000,Randomized Quicksort,2,4.497900
+Reverse Sorted,5000,Randomized Quicksort,3,5.247100
+Reverse Sorted,5000,Randomized Quicksort,4,4.682300
+Reverse Sorted,5000,Randomized Quicksort,5,4.162300
+Repeated,100,Deterministic Quicksort,1,0.150200
+Repeated,100,Deterministic Quicksort,2,0.044300
+Repeated,100,Deterministic Quicksort,3,0.047300
+Repeated,100,Deterministic Quicksort,4,0.050200
+Repeated,100,Deterministic Quicksort,5,0.041500
+Repeated,100,Randomized Quicksort,1,0.067700
+Repeated,100,Randomized Quicksort,2,0.067000
+Repeated,100,Randomized Quicksort,3,0.068300
+Repeated,100,Randomized Quicksort,4,0.062800
+Repeated,100,Randomized Quicksort,5,0.061400
+Repeated,500,Deterministic Quicksort,1,0.851500
+Repeated,500,Deterministic Quicksort,2,1.012900
+Repeated,500,Deterministic Quicksort,3,0.731900
+Repeated,500,Deterministic Quicksort,4,0.539600
+Repeated,500,Deterministic Quicksort,5,0.476900
+Repeated,500,Randomized Quicksort,1,0.569000
+Repeated,500,Randomized Quicksort,2,1.617300
+Repeated,500,Randomized Quicksort,3,0.874700
+Repeated,500,Randomized Quicksort,4,0.794800
+Repeated,500,Randomized Quicksort,5,1.184400
+Repeated,1000,Deterministic Quicksort,1,2.230600
+Repeated,1000,Deterministic Quicksort,2,1.755500
+Repeated,1000,Deterministic Quicksort,3,1.459200
+Repeated,1000,Deterministic Quicksort,4,1.932700
+Repeated,1000,Deterministic Quicksort,5,1.380600
+Repeated,1000,Randomized Quicksort,1,2.110600
+Repeated,1000,Randomized Quicksort,2,2.201000
+Repeated,1000,Randomized Quicksort,3,2.016400
+Repeated,1000,Randomized Quicksort,4,1.666600
+Repeated,1000,Randomized Quicksort,5,2.634300
+Repeated,2000,Deterministic Quicksort,1,5.368400
+Repeated,2000,Deterministic Quicksort,2,7.470100
+Repeated,2000,Deterministic Quicksort,3,5.656900
+Repeated,2000,Deterministic Quicksort,4,6.061100
+Repeated,2000,Deterministic Quicksort,5,5.141600
+Repeated,2000,Randomized Quicksort,1,5.714300
+Repeated,2000,Randomized Quicksort,2,6.437700
+Repeated,2000,Randomized Quicksort,3,6.122700
+Repeated,2000,Randomized Quicksort,4,6.676400
+Repeated,2000,Randomized Quicksort,5,5.851500
+Repeated,5000,Deterministic Quicksort,1,35.690500
+Repeated,5000,Deterministic Quicksort,2,32.079900
+Repeated,5000,Deterministic Quicksort,3,34.273600
+Repeated,5000,Deterministic Quicksort,4,33.092400
+Repeated,5000,Deterministic Quicksort,5,31.623900
+Repeated,5000,Randomized Quicksort,1,35.036600
+Repeated,5000,Randomized Quicksort,2,36.697500
+Repeated,5000,Randomized Quicksort,3,34.131100
+Repeated,5000,Randomized Quicksort,4,34.569100
+Repeated,5000,Randomized Quicksort,5,33.970400
